@@ -1,5 +1,5 @@
+import 'package:my_big_number/task1.dart';
 import 'package:test/test.dart';
-import 'package:task1/task1.dart';
 
 void main() {
   group('MyBigNumber sum()', () {
