@@ -17,7 +17,7 @@ dart pub add logging characters
 Vì đây là một thư viện tự xây dựng, bạn có thể clone về và chạy bằng cách:
 
 ```bash
-git clone https://github.com/your-username/my_big_number.git
+git clone https://github.com/pKietDE/my_big_number.git
 cd my_big_number
 dart run
 ```
